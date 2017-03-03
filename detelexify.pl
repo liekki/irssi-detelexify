@@ -1,7 +1,7 @@
 use strict;
 use vars qw($VERSION %IRSSI);
 
-$VERSION = '0.1';
+$VERSION = '0.2';
 %IRSSI = (
     authors	=> 'Joel "Zouppen" Lehtonen',
     contact	=> 'joel.lehtonen+telex@iki.fi',
@@ -24,7 +24,7 @@ $VERSION = '0.1';
 
 # Identities of Telegram gateways
 my %telex_nicks = (
-    '~Telex@stream2.magnetismi.fi' => 1,
+    '~TC-Discor@a91-152-45-83.elisa-laajakaista.fi' => 1,
     );
 
 sub privmsg {
