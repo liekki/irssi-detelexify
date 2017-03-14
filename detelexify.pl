@@ -25,7 +25,8 @@ $VERSION = '0.2';
 # Identities of Telegram gateways
 my %telex_nicks = (
     '~TC-Discor@a91-152-45-83.elisa-laajakaista.fi' => 1,
-    '~TC-Discor@a91-152-42-20.elisa-laajakaista.fi' => 2
+    '~TC-Discor@a91-152-42-20.elisa-laajakaista.fi' => 2,
+    'istaria@theorycraft.fi' => 3
     );
 
 sub privmsg {
